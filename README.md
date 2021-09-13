@@ -1,7 +1,22 @@
-### Hi there 👋
+### Hey! 👋 Welcome to Marcus's Github.
+
+I'm a Front-End Developer with a focus in UX.
+
+😄 Pronouns: He/Him/They
+
+I work with Design Systems and building pages in React and TypeScript.
+
+Currently:
+- I am working at Curo Financial
+- I'm currently learning Python
+- I mostly work in JavaScript/TypeScript
+- 📫 How to reach me: marcusj98@gmail.com
+
+Thanks!
 
 <!--
-**Markj89/Markj89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is **Markj89/Markj89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -11,6 +26,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
