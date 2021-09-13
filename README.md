@@ -1,6 +1,7 @@
 ### Hey! 👋 Welcome to Marcus's Github.
 
 I'm a Front-End Developer with a focus in UX.
+Check out my [Portfolio](www.mjackson89.com/)
 
 😄 Pronouns: He/Him/They
 
@@ -11,7 +12,6 @@ Currently:
 - I'm currently learning Python
 - I mostly work in JavaScript/TypeScript
 - 📫 How to reach me: 
-  - marcusj98@gmail.com
   - [Polywork](https://www.polywork.com/marcusj89)
   - [LinkedIn](https://www.linkedin.com/in/marcus-jackson-626a7a83/)
 
