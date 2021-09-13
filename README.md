@@ -10,7 +10,10 @@ Currently:
 - I am working at Curo Financial
 - I'm currently learning Python
 - I mostly work in JavaScript/TypeScript
-- 📫 How to reach me: marcusj98@gmail.com
+- 📫 How to reach me: 
+  - marcusj98@gmail.com
+  - [Polywork](https://www.polywork.com/marcusj89)
+  - [LinkedIn](https://www.linkedin.com/in/marcus-jackson-626a7a83/)
 
 Thanks!
 
