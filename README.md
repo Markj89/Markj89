@@ -8,7 +8,7 @@ Check out my [Portfolio](www.mjackson89.com/)
 I work with Design Systems and building pages in React and TypeScript.
 
 Currently:
-- I am working at Curo Financial
+- I am working at Fitch Ratings
 - I'm currently learning Python
 - I mostly work in JavaScript/TypeScript
 - 📫 How to reach me: 
