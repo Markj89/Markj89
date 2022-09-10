@@ -9,7 +9,7 @@ I work with Design Systems and building pages in React and TypeScript.
 
 Currently:
 - I am working at Fitch Ratings
-- I'm currently learning Python
+- I'm currently learning Java
 - I mostly work in JavaScript/TypeScript
 - 📫 How to reach me: 
   - [Polywork](https://www.polywork.com/marcusj89)
