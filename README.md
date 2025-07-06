@@ -12,7 +12,6 @@ Currently:
 - I'm currently learning Java
 - I mostly work in JavaScript/TypeScript
 - 📫 How to reach me: 
-  - [Polywork](https://www.polywork.com/marcusj89)
   - [LinkedIn](https://www.linkedin.com/in/marcus-jackson-626a7a83/)
 
 Thanks!
